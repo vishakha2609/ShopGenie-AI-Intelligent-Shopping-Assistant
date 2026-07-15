@@ -1,53 +1,81 @@
-# ShopGenie-AI-Intelligent-Shopping-Assistant
-AI-powered Intelligent Shopping Assistant built using IBM watsonx Orchestrate and IBM Granite Models for personalized product recommendations, comparisons, and smart shopping guidance.
-# SmartShop AI 🛒🤖
-## Intelligent Shopping Assistant
+# 🛒 ShopGenie AI – Intelligent Shopping Assistant
 
-SmartShop AI is an AI-powered shopping assistant designed to help users make smarter and more confident purchase decisions. The system acts as a smart shopping companion by providing personalized product recommendations, product comparisons, and intelligent shopping guidance.
-Built using IBM watsonx Orchestrate and IBM Granite Models, the solution combines Agentic AI capabilities with intelligent workflows to understand user requirements and deliver relevant shopping insights.
+## 📌 Project Overview
+ShopGenie AI is an AI-powered shopping assistant developed using **IBM watsonx Orchestrate** and **IBM Granite Models**. It helps users discover the most suitable products by providing personalized recommendations, product comparisons, and intelligent shopping guidance.
+The assistant understands user preferences such as budget, brand choices, and product requirements to deliver accurate and context-aware shopping suggestions.
 
-## Problem Statement
+## 🚀 Problem Statement
 
-Modern online shoppers face challenges such as:
-- Overwhelming product choices
-- Difficulty comparing products across platforms
+Online shoppers often face challenges such as:
+
+- Too many product choices
 - Scattered reviews and ratings
-- Dynamic pricing and changing offers
-- Lack of personalized recommendations
+- Difficulty comparing products
+- Dynamic pricing across platforms
+- Time-consuming purchase decisions
 
-SmartShop AI addresses these challenges by providing an intelligent and user-friendly shopping assistance experience.
+ShopGenie AI addresses these challenges by acting as a smart shopping companion that simplifies product discovery and helps users make informed buying decisions.
 
-## Key Features
+## ✨ Key Features
 
-- 🤖 AI-powered shopping assistance
+- 🤖 AI-powered shopping assistant
 - 🛍️ Personalized product recommendations
 - 📊 Product comparison support
 - ⭐ Review and rating analysis
-- 💰 Smart price awareness
-- 🔍 Intelligent user query handling
-- 🌐 E-commerce product browsing interface
+- 💡 Smart alternative suggestions
+- 💰 Budget-based recommendations
+- 🌐 User-friendly e-commerce interface
 
-## Proposed Solution
-SmartShop AI uses Agentic AI to provide intelligent shopping support. The system processes user queries, understands preferences, retrieves relevant product information, and generates personalized recommendations.
-The AI agent uses IBM Granite Models for reasoning and natural language understanding, while IBM watsonx Orchestrate manages agent workflows and interactions.
-
-## Technologies Used
+## 🏗️ Technologies Used
 
 - IBM watsonx Orchestrate
 - IBM Granite Models
+- IBM LangFlow
 - IBM Cloud
-- Generative AI
-- Retrieval-Augmented Generation (RAG)
+- HTML5
+- CSS3
+- JavaScript
 
-## System Components
 
-### AI Agent
-Handles user queries and coordinates intelligent shopping tasks.
+## 🔄 Project Workflow
 
-### IBM Granite Model
-Provides natural language understanding, reasoning, and personalized responses.
-### RAG Knowledge Layer
-Retrieves relevant product information, reviews, and shopping data to improve response accuracy.
-### E-Commerce Interface
-Provides a user-friendly platform for interacting with the shopping assistant.
-## Project Structure
+1. User enters a shopping query.
+2. IBM watsonx Orchestrate processes the request.
+3. IBM Granite Model understands user intent.
+4. AI analyzes product information and user preferences.
+5. Personalized recommendations are generated.
+6. Results are displayed through the shopping interface.
+
+
+## 📂 Project Structure
+
+```text
+ShopGenie-AI
+│
+├── README.md
+├── app.json
+├── ShopGenie_Problem_Statement.pdf
+├── ShopGenie_Project_Presentation.pptx
+│
+└── website
+    ├── index.html
+    ├── style.cs
+    └── javascript.js
+```
+
+---
+
+## 🎯 Future Enhancements
+- Voice-based shopping assistant
+- Image-based product search
+- Real-time price tracking
+- Fake review detection
+- Multilingual support
+- Shopping wishlist and alerts
+
+## 👩‍💻 Developed By
+**Vishakha Kadam**
+Project developed as part of the **IBM SkillsBuild Agentic AI Program**.
+
+## 📄 License
+This project is created for educational and demonstration purposes.
