@@ -35,7 +35,6 @@ The AI agent uses IBM Granite Models for reasoning and natural language understa
 
 - IBM watsonx Orchestrate
 - IBM Granite Models
-- IBM LangFlow
 - IBM Cloud
 - Generative AI
 - Retrieval-Augmented Generation (RAG)
