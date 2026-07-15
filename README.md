@@ -30,7 +30,6 @@ ShopGenie AI addresses these challenges by acting as a smart shopping companion 
 
 - IBM watsonx Orchestrate
 - IBM Granite Models
-- IBM LangFlow
 - IBM Cloud
 - HTML5
 - CSS3
@@ -56,13 +55,8 @@ ShopGenie-AI
 ├── app.json
 ├── ShopGenie_Problem_Statement.pdf
 ├── ShopGenie_Project_Presentation.pptx
-│
-└── website
-    ├── index.html
-    ├── style.cs
-    └── javascript.js
+└── index.html
 ```
-
 ---
 
 ## 🎯 Future Enhancements
