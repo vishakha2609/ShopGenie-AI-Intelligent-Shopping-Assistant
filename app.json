@@ -1,0 +1,20 @@
+{
+  "name": "ShopGenie AI",
+  "version": "1.0.0",
+  "description": "An AI-powered Intelligent Shopping Agent that provides personalized product recommendations, comparisons, and smart shopping assistance.",
+  "domain": "E-Commerce / Retail",
+  "technologies": [
+    "IBM watsonx Orchestrate",
+    "IBM Granite Models",
+    "IBM LangFlow",
+    "IBM Cloud",
+    "Generative AI"
+  ],
+  "features": [
+    "Personalized product recommendations",
+    "Product comparison assistance",
+    "AI-powered shopping guidance",
+    "Intelligent user query handling"
+  ],
+  "project_type": "AI Shopping Assistant"
+}
